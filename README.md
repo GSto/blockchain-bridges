@@ -14,4 +14,6 @@ A list of available blockchain bridges
   - Terra, ETH, BSC, Harmony
 - [SpookySwap](https://spookyswap.finance/bridge)
   - Fantom, ETH, BSC
+- [Arbitum Bridge](https://bridge.arbitrum.io/)
+  - Arbitum   
       
