@@ -10,3 +10,8 @@ A list of available blockchain bridges
   - ETH, BSC, Polygon, Arbitrum, AVAX
 - [Hop Exchange](https://hop.exchange/)
   - ETH, Arbitrum, Optimism, Polygon, xDAI
+- [Terra Bridge](https://bridge.terra.money/) ([Github](https://github.com/terra-money/bridge-web-app))
+  - Terra, ETH, BSC, Harmony
+- [SpookySwap](https://spookyswap.finance/bridge)
+  - Fantom, ETH, BSC
+      
